@@ -1,5 +1,5 @@
-# digitaldospassos
-Repo for the code running the static version of my 2010 Omeka website exploring media in the "newsreel" sections of John Dos Passos' novel 1919. The static "archive" verison of the site is live and can be visited at [digitaldospassos.com].
+# digitaldospassos.com migration omeka>static site
+Repo for the code running the static version of my 2010 Omeka website exploring media in the "newsreel" sections of John Dos Passos' novel 1919. The static "archive" verison of the site is live and can be visited at [DigitalDosPassos.com](http://www.digitaldospassos.com).
 
 This was an Omeka site I made in lieu of a final paper for a graduate seminar back in 2010. I never got around to updating its Omeka (it was on something like 1.2.1?) and the CMS isn't required for the important parts to work, so I'm finally migrating it to a static site.
 
